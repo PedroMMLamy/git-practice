@@ -1,0 +1,3 @@
+Name: Pedro
+Age:35
+Favourite Color: Blue
